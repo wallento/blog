@@ -21,6 +21,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://wallento.netlify.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: wallento
 github_username:  wallento
+google_analytics: UA-140416379-1
 
 # Build settings
 markdown: kramdown
