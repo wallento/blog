@@ -16,7 +16,7 @@
 title: wallento's life in teaching
 email: stefan@wallentowitz.de
 description: >- # this means to ignore newlines until "baseurl:"
-  I am a professor at [Munich University of Applied Sciences](https://hm.edu/en) in Computer Architecture and Computer Engineering. Since long before starting this position I have been an open source enthusiast and contributor. I want to share with you my experiences and work with high-quality open source in education and how to make it easier accessible for students.
+  Using open source projects in teaching Computer Engineering and make them easier accessible to students.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://wallento.netlify.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: wallento
