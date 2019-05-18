@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Since nearly three months I am a professor at [Munich University of
+Applied Sciences](https://hm.edu/en) now. My primary role is teaching
+computer architecture, computer engineering and related topics. This
+semester I am teaching *Computer Architecture* and *Operating Systems*
+as basic undergraduate courses.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+[Continue reading my introductory blog post](../2019/05/18/getting-started).
